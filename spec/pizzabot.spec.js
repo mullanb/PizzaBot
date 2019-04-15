@@ -1,4 +1,4 @@
-fdescribe('Given the Pizzabot', function() {
+describe('Given the Pizzabot', function() {
     let Pizzabot = require('../lib/pizzabot');
     let pizzabot;
 
